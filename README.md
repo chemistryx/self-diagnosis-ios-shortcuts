@@ -65,4 +65,4 @@
 
 #### 기관 코드 얻기
 
-고등학교의 경우 [이곳](https://github.com/ChemistryX/self-diagnosis-ios-shortcuts/discussions/categories/q-a)에서 조회할 수 있으며, 이외의 경우 [이곳](https://github.com/ChemistryX/self-diagnosis-ios-shortcuts/discussions/categories/q-a)에 질문을 남겨주시면 도와드리겠습니다.
+고등학교의 경우 [이곳](http://jubsoo2.bscu.ac.kr/src_gogocode/src_gogocode.asp)에서 조회할 수 있으며, 이외의 경우 [이곳](https://github.com/ChemistryX/self-diagnosis-ios-shortcuts/discussions/categories/q-a)에 질문을 남겨주시면 도와드리겠습니다.

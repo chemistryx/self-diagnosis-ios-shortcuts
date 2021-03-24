@@ -8,7 +8,7 @@
 
 **Safari**를 통해 아래 링크를 열어주세요
 
-<a href="https://www.icloud.com/shortcuts/790af383c4e049fb94f108c79538e3dd">단축어 다운로드</a>
+<a href="https://www.icloud.com/shortcuts/97968d745a2d49d682a503dcddbdd625">단축어 다운로드</a>
 
 ### 단축어 기본 설정
 
@@ -65,4 +65,4 @@
 
 #### 기관 코드 얻기
 
-기관 코드는 https://par.<교육청코드>.go.kr/spr_ccm_cm01_100.do?kraOrgNm=<학교이름> 을 통해 나온 `orgCode`값에서 찾을 수 있습니다.
+고등학교의 경우 [이곳](https://github.com/ChemistryX/self-diagnosis-ios-shortcuts/discussions/categories/q-a)에서 조회할 수 있으며, 이외의 경우 [이곳](https://github.com/ChemistryX/self-diagnosis-ios-shortcuts/discussions/categories/q-a)에 질문을 남겨주시면 도와드리겠습니다.

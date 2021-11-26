@@ -8,7 +8,7 @@
 
 **Safari**를 통해 아래 링크를 열어주세요.
 
-<a href="https://www.icloud.com/shortcuts/8b910c7363ee4733973b99798ef93dc9">단축어 다운로드</a>
+<a href="https://www.icloud.com/shortcuts/25d9597938234a2fb3600b59721f6553">단축어 다운로드</a>
 
 ### 단축어 기본 설정
 

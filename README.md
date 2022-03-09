@@ -1,8 +1,11 @@
-<p align="center">
+<div align="center">
   <img width="75" src="https://user-images.githubusercontent.com/10433434/92507753-69804a00-f242-11ea-942f-ee02d7576833.png" alt="icon" align="center">
 
-  <h2 align="center">건강상태 자가진단 단축어 for iOS</h2>
-</p>
+  <h2>건강상태 자가진단 단축어</h2>
+  <a href="https://toss.me/hasuhan" title="자가진단 서버 유지에 도움이 됩니다!">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black">
+  </a>
+</div>
 
 ### 다운로드
 

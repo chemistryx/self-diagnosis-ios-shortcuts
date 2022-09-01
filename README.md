@@ -7,11 +7,11 @@
   </a>
 </div>
 
-### 다운로드
+## 서비스 종료 안내
 
-**Safari**를 통해 아래 링크를 열어주세요.
+자세한 내용은 [공지사항](https://github.com/ChemistryX/self-diagnosis-ios-shortcuts/discussions/111)을 참고해주세요.
 
-<a href="https://www.icloud.com/shortcuts/eeed1fb49fb64d4199cd739a39acad47">단축어 다운로드</a>
+<hr />
 
 ### 단축어 기본 설정
 
